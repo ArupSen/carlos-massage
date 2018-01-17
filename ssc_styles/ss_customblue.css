@@ -1,0 +1,47 @@
+/*blue palette*****
+#F4F6FB - lightest
+#EDF0F8 - light
+#B5C4E3 - light mid
+#90A7D5 - mid
+#4D5E80 - dark
+#1A1F2A - darkest
+********************/
+/*font colours and main elements*/
+body{color:#1A1F2A;background-color:#F4F6FB;background-image: url(/ss_custom0207/ssc_images/clouds.gif);}
+strong{color:#4D5E80;}
+/*headings*/
+div#hd h1{	background-image:url(/ss_standard0207/sss-headblue.jpg);}
+h2 {background-color:#B5C4E3; color:#4D5E80; border:solid #4D5E80; border-width:0 0 1px 0;background-image:url(/ss_custom0207/ssc_images/ssc_om_blue.gif);background-repeat:no-repeat;}
+img{border:1px solid #66804D;background-color:#B5C4E3;}
+#pullquote blockquote{
+	border:1px solid #4D5E80;
+	background-image:url(/ss_custom0207/ssc_images/ssc_quot_blue.gif);
+	background-repeat:no-repeat;
+	background-color:#B5C4E3;
+}
+/*footer*/
+#ft{background-color:#B5C4E3;color:#4D5E80;}
+/*links*/
+a:link{text-decoration:underline;color:#4D5E80;}
+a:visited{text-decoration:underline;color:#90A7D5;}
+a:hover{text-decoration:none;color:#1A1F2A;}
+/*sidenav*/
+div.yui-b ul{background-color:#EDF0F8;background-image:url(/ss_custom0207/ssc_images/ssc_navbg_blue.gif);}
+#home #nav-home, #about #nav-about, #classes #nav-classes, #holidays #nav-holidays, #questions #nav-questions, #massage #nav-massage, #contact #nav-contact, #chanting #nav-chanting, #bandhas #nav-bandhas, #path #nav-path, #voucher #nav-gift, #yogabooks #nav-books, #yogadvds #nav-dvds{background-color:#B5C4E3;border-left:4px solid #1A1F2A;}
+#backbutton{list-style-image:url(/ss_custom0207/ssc_images/ssc_back_blue.gif);}
+/*table*/
+caption#capt{margin-left:150px;color:#4D5E80;}
+table{border:1px solid #4D5E80;border-width:1px 0 0 1px;}
+th, td{border:1px solid #4D5E80;border-width:0 1px 1px 0;}
+th{background-color:#B5C4E3;}
+/*lists*/
+#list1, #list2{list-style-image:url(/ss_custom0207/ssc_images/ssc_bullet_blue.gif);}
+/*form*/
+#form{border:1px solid #4D5E80; color:#4D5E80;}
+#form #sendbutton input{background-color:#EDF0F8;color:#4D5E80;}
+#form p {background-color:#B5C4E3;}
+#form input, #form fieldset{border:1px solid #4D5E80;}
+/*explorer mac*/
+/*\*//*/
+.yui-u first{color:blue;}
+/**/

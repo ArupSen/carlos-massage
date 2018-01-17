@@ -1,0 +1,501 @@
+body {
+	margin: 0px auto;
+	background-image: url(images/background.png);
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+#header {
+	margin-top: 80px;
+}
+
+#container {
+	width: 960px;
+	padding: 0px;
+	margin: auto;
+}
+
+#header a {
+	height: 150px;
+	width: 700px;
+	color: #25241C;
+	text-decoration: none;
+	font-family: 'Syncopate', sans-serif;
+	padding: 65px 0px 40px 0px;
+	margin-right: 80px;
+}
+
+#header h1 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 65px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+#header h2 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+#menu ul {
+	height: 45px;
+	width: 608px;
+	list-style-type: none;
+	color: #F3F0E2;
+	font-family: Georgia;
+	font-size: 18px;
+	font-weight: normal;
+	padding: 0px;
+}
+
+#menu ul li a {
+	width: 150px;
+	height: 45px;
+	line-height: 45px;
+	float: left;
+	text-align: center;
+	border-right: solid 1px #4C5620;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#AEBA54), to(#828E37));
+	background-image: -moz-gradient(linear, 0% 0%, 0% 100%, from(#AEBA54), to(#828E37));
+	background-color: #828E37;
+}
+
+#menu li:first-child a{
+    border-top-left-radius:5px;
+    -moz-border-top-left-radius:5px;
+    -webkit-border-top-left-radius:5px;
+    border-bottom-left-radius:5px;
+    -moz-border-bottom-left-radius:5px;
+    -webkit-border-bottom-left-radius:5px;
+}
+#menu li:last-child a{
+	border-right: none;
+    border-top-right-radius:5px;
+    -moz-border-top-right-radius:5px;
+    -webkit-border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
+    -moz-border-bottom-right-radius:5px;
+    -webkit-border-bottom-right-radius:5px;
+}
+
+#menu ul li a {
+	line-height: 50px;
+	text-decoration: none;
+	color: #F3F0E2;
+}
+
+#menu ul li a:hover {
+	color: #F3F0E2;
+	background-image: none;
+	background-color: #888939;
+}
+
+#menu ul li a.active {
+	color: #F3F0E2;
+	background-image: none;
+	background-color: #888939;
+}
+
+#welcome {
+	color: #25241C;
+	background-color: #F3F0E2;
+	font-family: Georgia;
+	font-size: 16px;
+	padding: 50px;
+	line-height: 25px;
+}
+
+#welcome_text {
+	width: 380px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+
+#welcome_text h3 {
+	height: 50px;
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+	color: #4C5620;
+	font-family: Tahoma;
+}
+
+#welcome #benefits-of-massage {
+	width: 380px;
+	padding: 0px;
+	margin: 0px;
+	float: right;
+}
+
+#welcome #benefits-of-massage h3 {
+	height: 50px;
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+	color: #4C5620;
+	font-family: Tahoma;
+}
+
+#benefits-of-massage table tr{
+	vertical-align: top;
+}
+
+#benefits-of-massage table tr.row_space {
+	visibility: hidden;
+	line-height: 20px;
+	overflow: hidden;	
+}
+
+#benefits-of-massage table th {
+	font-weight: bold;
+}
+
+#benefits-of-massage table tr td {
+	padding-left: 20px;
+}
+
+#clear {
+	clear: both;
+}
+
+#massage {
+	width: 1100px;
+	height: 350px;
+	margin: auto;
+	clear: both;
+}
+
+#massage .massage_type {
+	height: 365px;
+	width: 200px;
+	background-color: #F3F0E2;
+	float: left;
+	margin-bottom: 100px;
+	margin-right: 14px;
+	margin-left: 0px;
+	padding: 15px;
+	font-family: Georgia;
+	font-size: 16px;
+	color: #25241C;
+	text-align: center;
+}
+
+#massage .massage_type h3 {
+	height: 50px;
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+	color: #4C5620;
+	font-family: Tahoma;
+	text-align: left;
+}
+
+#massage .massage_type .massage_text {
+	text-align: left;
+	display: block;
+	height: 150px;	
+}
+
+#massage .price {
+	height: 45px;
+}
+
+#massage .price p {
+	line-height: 10px;
+}
+
+#massage .book {
+	width: 150px;
+	height: 40px;
+	margin: 15px 25px 15px 25px;
+	padding: 0px;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#AEBA54), to(#828E37));
+	background-image: -moz-gradient(linear, 0% 0%, 0% 100%, from(#AEBA54), to(#828E37));
+	background-color: #889B39;
+	text-align: center;
+	padding-top: 5px;
+	border-radius: 5px;
+}
+
+#massage .book a {
+	font-family: Tahoma;
+	line-height: 40px;
+	font size: 25px;
+	text-decoration: none;
+	color: #F3F0E2;
+}
+
+#about_massage_main {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #25241C;
+	height: 600px;
+	width: 960px;
+	background-color: #F3F0E2;
+	margin: auto;
+	line-height: 25px;
+}
+
+#about_massage_main h3 {
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+	color: #4C5620;
+	font-family: Tahoma;
+}
+
+
+#what-is-massage-therapy {
+	width: 330px;
+	height: 500px;
+	float: left;
+	padding: 30px 50px 50px 50px;
+	margin-bottom: 100px;
+}
+
+#precautions {
+	font-family: Georgia;
+	height: 780px;
+	font-size: 16px;
+	color: #25241C;
+	background-color: #F3F0E2;
+	padding: 30px 50px 50px 50px;
+	margin: auto;
+	line-height: 25px;
+}
+
+#precautions h3 {
+	display: block;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	font-size: 20px;
+	font-weight: normal;
+	color: #4C5620;
+	font-family: Tahoma;
+}
+
+
+img {
+	float: right;
+	margin-left: 20px;
+}
+
+img#welcome {
+	float: left;
+	margin: 10px 10px 0px 0px;
+	padding: 0px;
+}
+
+#types_stroke {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #25241C;
+	background-color: #F3F0E2;
+	padding: 30px 50px 50px 50px;
+	margin: auto;
+	line-height: 25px;
+}
+
+#types_stroke h3 {
+	display: block;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	font-size: 20px;
+	font-weight: normal;
+	color: #4C5620;
+	font-family: Tahoma;
+}
+
+#types_stroke h4 {
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #25241C;
+	font-family: Tahoma;
+}
+
+#get-in-touch {
+	font-family: Georgia;
+	line-height: 25px;
+	height: 710px;
+	font-size: 16px;
+	color: #25241C;
+	background-color: #F3F0E2;
+	padding: 50px;
+}
+
+#contact_text {
+	width: 400px;
+	float: left;
+}
+
+#contact_text h3 {
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+	color: #4C5620;
+	font-family: Tahoma;
+}
+
+#contact_text a {
+	text-decoration: none;
+	border-bottom: 1px dotted #25241C;
+	color: #25241C;
+	font-family: Georgia;
+	font-size: 14px;
+}
+
+#contact_text a:hover {
+	color: #25241C;
+	font-family: Georgia;
+	border-bottom: 1px dotted #4C5620;
+}
+
+#contact_form {
+	height: 700px;
+	width: 400px;
+	float: right;
+	padding: 0px;
+	margin: 0px;
+}
+
+#contact_form ul {
+	list-style-type: none;
+	margin: 70px 0px 0px 60px;
+	padding: 0px;
+}
+
+#contact_form ul li{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#contact_form ul li label {
+	float: left;
+	width: 80px;
+	height: 30px;
+	padding: 0px;
+	font-family: Georgia;
+	color: #4C5620;
+	font-size: 16px;
+	
+}
+
+#contact_form ul li input{
+	width: 250px;
+	height: 30px;
+	padding-left: 5px;
+	border: none;
+	background-color: #C4C0AD;
+	font-family: Georgia;
+	color: #25241C;
+	font-size: 15px;
+}
+
+#contact_form ul textarea {
+	width: 250px;
+	height: 150px;
+	padding-left: 5px;
+	padding-top: 5px;
+	border: none;
+	background-color: #C4C0AD;
+	font-family: Georgia;
+	color: #25241C;
+	font-size: 15px;
+}
+
+#contact_form ul li.buttons{
+	padding-right: 5px;
+}
+
+#contact_form ul li input.button {
+	width: 100px;
+	height: 40px;
+	margin-left: 80px;
+	margin-right: 0px;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#AEBA54), to(#828E37));
+	background-image: -moz-gradient(linear, 0% 0%, 0% 100%, from(#AEBA54), to(#828E37));
+	background-color: #889B39;
+	text-align: center;
+	color: #F3F0E2;
+	font-family: Tahoma;
+	font-size: 16px;
+	border-radius: 5px;
+}
+
+#contact_form ul li input#reset.button {
+	float: right;
+	padding: 0px;
+	margin: 0px;
+}
+
+#thank-you {
+	width: 400px;
+	font-family: Georgia;
+	font-size: 16px;
+	color: #25241C;
+	float: right;
+}
+
+#thank-you h3 {
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+	color: #4C5620;
+	font-family: Tahoma;
+}
+
+#footer {
+	height: 100px;
+	background-color: #B49770;
+	margin: 100px 0px 0px 0px;
+	padding: 0px;
+	color: #F3F0E2;
+	font-family: Georgia;
+	font-size: 14px;
+	clear: both;
+}
+
+#footer_links{
+	width: 960px;
+	margin: auto;
+}
+
+#credits {
+	padding-top: 10px;
+	float: left;
+}
+
+#copyright{
+	padding-top: 25px;
+	height: 74px;
+	float: right;
+	white-space: nowrap;
+}
+
+#copyright p{
+	line-height: 16px;
+	margin-top: 14px;
+	margin-bottom: 14px;
+	padding-top: 14px;
+}
+
+#copyright p a {
+	text-decoration: underline;
+	color: #F3F0E2;
+}
+
+#copyright a#commons{
+	display: block;
+	line-height: 16px;
+	margin-top: 14px;
+	margin-bottom: 14px;
+}

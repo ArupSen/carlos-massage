@@ -1,0 +1,16 @@
+#  for Carlos Massage
+User-agent: *
+Disallow: /php.ini
+Disallow: /404page.html
+Disallow: /favicon.ico
+Disallow: /ssc_images/
+Disallow: /ssc_inc/
+Disallow: /ssc_styles/
+Disallow: /stats/
+Disallow: /cm-mail.php
+Disallow: /thanks.php
+Disallow: /gdform.php
+Disallow: /missing.html
+Disallow: /welcome.html
+Disallow: /php_uploads/
+

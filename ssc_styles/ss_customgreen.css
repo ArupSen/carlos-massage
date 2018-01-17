@@ -1,0 +1,48 @@
+/*green palette*****
+#F7FBF5 - lightest
+#F2F8ED - light
+#CCE3B5 - light mid
+#B3D590 - mid
+#66804D - dark
+#1A2013 - darkest
+********************/
+/*font colours and main elements*/
+body{color:#1A2013;background-color:#FFF;background-image: url(/ss_custom0207/ssc_images/beige.gif);}
+strong{color:#66804D;}
+/*headings*/
+div#hd h1{	background-image:url(/ss_standard0207/sss-headgreen.jpg);}
+h2 {background-color:#CCE3B5; color:#66804D; border:solid #1A2013; border-width:0 0 1px 0;background-image:url(/ss_custom0207/ssc_images/ssc_om_green.gif);background-repeat:no-repeat;}
+img{border:1px solid #66804D;background-color:#F2F8ED;}
+#pullquote blockquote{
+	border:1px solid #66804D;
+	background-image:url(/ss_custom0207/ssc_images/ssc_quot_green.gif);
+	background-repeat:no-repeat;
+	background-color:#CCE3B5;
+}
+/*footer*/
+#ft{background-color:#F2F8ED;color:#B3D590;}
+/*links*/
+a:link{text-decoration:underline;color:#66804D;}
+a:visited{text-decoration:underline;color:#B3D590;}
+a:hover{text-decoration:none;color:#1A2013;}
+/*sidenav*/
+div.yui-b ul{background-color:#F2F8ED;background-image:url(/ss_custom0207/ssc_images/ssc_navbg_green.gif);}
+#home #nav-home, #about #nav-about, #classes #nav-classes, #holidays #nav-holidays, #questions #nav-questions, #massage #nav-massage, #contact #nav-contact, #chanting #nav-chanting, #bandhas #nav-bandhas, #path #nav-path, #voucher #nav-gift, #yogabooks #nav-books, #yogadvds #nav-dvds{background-color:#CCE3B5;border-left:4px solid #66804D;}
+#backbutton{list-style-image:url(/ss_custom0207/ssc_images/ssc_back_green.gif);}
+/*table*/
+caption#capt{margin-left:150px;color:#66804D;}
+table{border:1px solid #66804D;border-width:1px 0 0 1px;}
+th, td{border:1px solid #66804D;border-width:0 1px 1px 0;}
+th{background-color:#CCE3B5;}
+/*lists*/
+#list1, #list2{list-style-image:url(/ss_custom0207/ssc_images/ssc_bullet_green.gif);}
+
+/*form*/
+#form{border:1px solid #66804D; color:#66804D;}
+#form #sendbutton input{background-color:#F2F8ED;color:#1A2013;}
+#form p {background-color:#F2F8ED;}
+#form input, #form fieldset{border:1px solid #66804D;}
+/*explorer mac*/
+/*\*//*/
+.yui-u first{color:green;}
+/**/
