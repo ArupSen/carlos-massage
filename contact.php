@@ -40,7 +40,7 @@
 	<p></p>
 		    </div>
     <div class="yui-u">
-	<a href="http://maps.google.co.uk/maps?f=d&amp;hl=en&amp;saddr=comer+crescent&amp;daddr=&amp;sll=53.098145,-2.443696&amp;sspn=8.832566,19.863281&amp;ie=UTF8&amp;z=16&amp;om=1" title="click here to see a bigger map"><img src="ssc_images/cm-map.jpg" width="200" height="324" alt="" title="click here to see a bigger map"></a>
+	<a href="https://www.google.co.uk/maps/place/Jarvis+St+%26+Maitland+St,+Toronto,+ON+M4Y+2H3,+Canada/@43.6568152,-79.3814244,13.75z/data=!4m5!3m4!1s0x89d4cb4cfe83d2e1:0x340a68f5c948cf2a!8m2!3d43.6652021!4d-79.3778775" title="click here to see a bigger map"><img src="ssc_images/cm-map-toronto.jpg" width="200" height="324" alt="" title="click here to see a bigger map"></a>
 	    </div>
 </div>
 </div>
