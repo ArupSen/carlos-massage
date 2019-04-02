@@ -18,8 +18,7 @@
 	<h2>Contact Me</h2>
 	<p>Get in touch with me for whatever reason, whether it's about further information on treatments, general inquiries about massage therapy or making an appointment. You can send me an e&ndash;mail by filling in the form below. I generally reply within 24 hours.
 	</p>
-	<p>If you cannot see it clearly on the map opposite I am based in Southall UB2 4XD. You can see a larger map by clicking on it.</p>
-	<p>Phone or text me on 07919 577335.</p>
+	<p>If you cannot see it clearly on the map opposite I am based in Toronto, by Jarvis and Maitland. You can see a larger map by clicking on it.</p>
 	<p></p>
 <div id="form">
 		<form action="cm-mail.php" method="post" lang="en">
