@@ -22,7 +22,7 @@
 </tr>
 </thead>
 <tbody>
-<tr><td>Deep Tissue/Sports Massage</td><td>60 minutes</td><td>&pound;60.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<tr><td>Deep Tissue/Sports Massage</td><td>60 minutes</td><td>&dollar;60.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="jcoronoz@aol.com">
 <input type="hidden" name="undefined_quantity" value="1">
@@ -30,14 +30,14 @@
 <input type="hidden" name="item_number" value="CM1A">
 <input type="hidden" name="amount" value="60.00">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="currency_code" value="GBP">
+<input type="hidden" name="currency_code" value="CAD">
 <input type="hidden" name="lc" value="GB">
 <input type="hidden" name="bn" value="PP-BuyNowBF">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 <!--<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">-->
 </form></td>
 </tr>
-<tr><td>Deep Tissue/Sports Massage</td><td>90 minutes</td><td>&pound;90.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<tr><td>Deep Tissue/Sports Massage</td><td>90 minutes</td><td>&dollar;90.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="jcoronoz@aol.com">
 <input type="hidden" name="undefined_quantity" value="1">
@@ -45,14 +45,14 @@
 <input type="hidden" name="item_number" value="CM1B">
 <input type="hidden" name="amount" value="90.00">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="currency_code" value="GBP">
+<input type="hidden" name="currency_code" value="CAD">
 <input type="hidden" name="lc" value="GB">
 <input type="hidden" name="bn" value="PP-BuyNowBF">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 <!--<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">-->
 </form></td>
 </tr>
-<tr><td>Aromatherapy Massage</td><td>60 minutes</td><td>&pound;60.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<tr><td>Aromatherapy Massage</td><td>60 minutes</td><td>&dollar;60.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="jcoronoz@aol.com">
 <input type="hidden" name="undefined_quantity" value="1">
@@ -60,14 +60,14 @@
 <input type="hidden" name="item_number" value="CM2A">
 <input type="hidden" name="amount" value="60.00">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="currency_code" value="GBP">
+<input type="hidden" name="currency_code" value="CAD">
 <input type="hidden" name="lc" value="GB">
 <input type="hidden" name="bn" value="PP-BuyNowBF">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 <!--<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">-->
 </form></td>
 </tr>
-<tr><td>Aromatherapy Massage</td><td>90 minutes</td><td>&pound;90.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<tr><td>Aromatherapy Massage</td><td>90 minutes</td><td>&dollar;90.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="jcoronoz@aol.com">
 <input type="hidden" name="undefined_quantity" value="1">
@@ -75,14 +75,14 @@
 <input type="hidden" name="item_number" value="CM2B">
 <input type="hidden" name="amount" value="90.00">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="currency_code" value="GBP">
+<input type="hidden" name="currency_code" value="CAD">
 <input type="hidden" name="lc" value="GB">
 <input type="hidden" name="bn" value="PP-BuyNowBF">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 <!--<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">-->
 </form></td>
 </tr>
-<tr><td>Anti Stress Massage</td><td>60 minutes</td><td>&pound;55.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<tr><td>Anti Stress Massage</td><td>60 minutes</td><td>&dollar;55.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="jcoronoz@aol.com">
 <input type="hidden" name="undefined_quantity" value="1">
@@ -90,14 +90,14 @@
 <input type="hidden" name="item_number" value="CM3A">
 <input type="hidden" name="amount" value="55.00">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="currency_code" value="GBP">
+<input type="hidden" name="currency_code" value="CAD">
 <input type="hidden" name="lc" value="GB">
 <input type="hidden" name="bn" value="PP-BuyNowBF">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 <!--<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">-->
 </form></td>
 </tr>
-<tr><td>Anti Stress Massage</td><td>90 minutes</td><td>&pound;80.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<tr><td>Anti Stress Massage</td><td>90 minutes</td><td>&dollar;80.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="jcoronoz@aol.com">
 <input type="hidden" name="undefined_quantity" value="1">
@@ -105,14 +105,14 @@
 <input type="hidden" name="item_number" value="CM3B">
 <input type="hidden" name="amount" value="80.00">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="currency_code" value="GBP">
+<input type="hidden" name="currency_code" value="CAD">
 <input type="hidden" name="lc" value="GB">
 <input type="hidden" name="bn" value="PP-BuyNowBF">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 <!--<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">-->
 </form></td>
 </tr>
-<tr><td>Neck &amp; Shoulder Massage</td><td>30 minutes</td><td>&pound;30.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<tr><td>Neck &amp; Shoulder Massage</td><td>30 minutes</td><td>&dollar;30.00</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="jcoronoz@aol.com">
 <input type="hidden" name="undefined_quantity" value="1">
@@ -120,7 +120,7 @@
 <input type="hidden" name="item_number" value="CM4">
 <input type="hidden" name="amount" value="30.00">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="currency_code" value="GBP">
+<input type="hidden" name="currency_code" value="CAD">
 <input type="hidden" name="lc" value="GB">
 <input type="hidden" name="bn" value="PP-BuyNowBF">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">

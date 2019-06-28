@@ -18,7 +18,7 @@
 	<h2>Contact Me</h2>
 	<p>Get in touch with me for whatever reason, whether it's about further information on treatments, general inquiries about massage therapy or making an appointment. You can send me an e&ndash;mail by filling in the form below. I generally reply within 24 hours.
 	</p>
-	<p>If you cannot see it clearly on the map opposite I am based in Toronto, by Jarvis and Maitland. You can see a larger map by clicking on it.</p>
+	<p>If you cannot see it clearly on the map opposite I am based in Toronto, at the following address:<br>50 Alexander Street, Toronto M4Y 1B6.<br> You can see a larger map by clicking on it.</p>
 	<p></p>
 <div id="form">
 		<form action="cm-mail.php" method="post" lang="en">
@@ -39,7 +39,7 @@
 	<p></p>
 		    </div>
     <div class="yui-u">
-	<a href="https://www.google.co.uk/maps/place/Jarvis+St+%26+Maitland+St,+Toronto,+ON+M4Y+2H3,+Canada/@43.6568152,-79.3814244,13.75z/data=!4m5!3m4!1s0x89d4cb4cfe83d2e1:0x340a68f5c948cf2a!8m2!3d43.6652021!4d-79.3778775" title="click here to see a bigger map"><img src="ssc_images/cm-map-toronto.jpg" width="200" height="324" alt="" title="click here to see a bigger map"></a>
+	<a href="https://www.google.co.uk/maps/place/Alexander+St,+Toronto,+ON,+Canada/@43.6634366,-79.3834126,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b358545795:0x671e90e728f5e9c!8m2!3d43.6634366!4d-79.3812239" title="click here to see a bigger map"><img src="ssc_images/cm-map-alexander.jpg" width="200" height="292" alt="" title="click here to see a bigger map"></a>
 	    </div>
 </div>
 </div>
